@@ -1,5 +1,7 @@
 ---
-layout: Instructors
+layout: page
+title: Instructors
+permalink: /instructors/
 ---
 
 ## Office hours (Data Science Studio, 6th Floor PAB)
